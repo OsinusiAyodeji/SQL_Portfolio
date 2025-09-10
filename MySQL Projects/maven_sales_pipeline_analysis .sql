@@ -1,4 +1,4 @@
-This repository contains my solution for Maven Sales Pipeline Analysis.
+This file contains my solution for Maven Sales Pipeline Analysis.
 ** The Situation
 You,ve just been hired as a Sales Analyst for MavenTech, a company that specializes in selling computer hardware to large business
 The VP of sales is mostly happy with her team performance, but she want to better understand it's strength and weakness.
